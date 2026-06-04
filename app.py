@@ -59,9 +59,7 @@ with col2:
     )
 st.divider()
 
-# ----------------------------------------------------
 # 3. BACK-END PREDICTION ENGINE
-# ----------------------------------------------------
 # When the user clicks the button, run the model
 if st.button("Predict Suitability 🚀", use_container_width=True):
     
