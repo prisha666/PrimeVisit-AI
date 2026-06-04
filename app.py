@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-# import joblib
+import joblib
 
 # 1. SETUP & MODEL LOADING
 # Configure the page layout
