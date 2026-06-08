@@ -1,6 +1,6 @@
 # PrimeVisit AI: Optimal Travel Window Predictor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-STREAMLIT-APP-LINK-HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://primevisit-ai-qfnqswbredvl86ug3fufxl.streamlit.app/)
 
 ## Project Overview
 This project is a Machine Learning pipeline and interactive web application designed to predict the optimal time to visit a destination by analyzing historical crowd density and weather patterns. By engineering a custom target variable ('Is_Suitable'), the model classifies whether a specific day of the year offers the ideal balance of low crowds, comfortable temperatures, and minimal rainfall.
